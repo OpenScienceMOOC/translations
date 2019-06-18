@@ -1,2 +1,2 @@
 # translations
-Translations repo for interaction with Crowdin integration
+Translations repo for interaction with Crowdin integration .. tbc.
